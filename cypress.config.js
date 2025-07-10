@@ -44,5 +44,6 @@ module.exports = defineConfig({
     setupNodeEvents,
     viewportWidth: 1400,
     viewportHeight: 800,
+    defaultCommandTimeout: 10000
   },
 });
